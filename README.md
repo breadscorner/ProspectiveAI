@@ -1,38 +1,35 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# 🌟 ProspectiveAI
 
-Testing Merge here.
+## 🎓 AI-Driven Scholarship Finder 
 
-## Getting Started
+Prospective harnesses AI to streamline your scholarship hunt, making the application process effortless and efficient.
 
-First, run the development server:
+## 🤝 Project Background
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+This project is a collaborative effort between a team of full stack web developers and design students, showcasing the fusion of technological innovation and creative design. 🚀 Prospective was proudly presented at the Annual Student Innovation Design & Development Technology Showcase at BCIT, drawing attention from industry professionals and local politicians. 🌐
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## 📚 Features
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+- **Curated Scholarships:** Our homepage showcases popular scholarships, offering a broad starting point. 🏆
+- **Smart Search:** Utilizing Langchain and OpenAI, we scour the web to bring you scholarships in a structured format. 🔍
+- **Tailored Recommendations:** Fill out a simple form, and we'll direct you to scholarships you're eligible for. 🎯
+- **Save for Later:** Easily save scholarships of interest to your profile with a click. 💾
+- **Track Applications:** Mark scholarships as applied on your profile to manage your application process. ✅
+- **GitHub Integration:** Securely log in with your GitHub account to access your saved and applied scholarships. 🔐
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+## 🛠 Technology Stack
 
-## Learn More
+- **Drizzle ORM & Neon Database:** Manage and query scholarship data with speed and flexibility. 💼
+- **Langchain & OpenAI:** Power our intelligent search and recommendation engine. 🧠
+- **SerpAPI:** Fetch real-time, structured search data from the web. 📈
+- **React & Next.js:** Build a fast, user-friendly frontend. ⚛️
 
-To learn more about Next.js, take a look at the following resources:
+## 🚀 Get Started
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+1. Visit the homepage to explore popular scholarships. 🌐
+2. Use the form to get personalized recommendations. 👤
+3. Save and manage scholarships on your profile page. 📁
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+**Note:** GitHub login required for profile access. 🔒
 
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+Embark on your scholarship journey with Prospective! 🎉
